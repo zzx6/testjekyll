@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 关于
-subtitle: Why you'd want to go on a date with me
+subtitle: 作者
 ---
 
 鄙人是一个非常私宅的人，若要联系，请加微信/QQ：3260311727
