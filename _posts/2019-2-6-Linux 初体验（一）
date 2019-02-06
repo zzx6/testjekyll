@@ -1,0 +1,68 @@
+---
+
+layout: post
+title: Linux 初体验（一）
+subtitle: 呵呵(￣▽￣)"
+tags: [Linux]
+comments: true
+
+---
+## 引言
+
+Linux 是世界上效率最高的系统，没有之一，并且 **免费、开源** ，所以也是程序员的“真爱”，大家可以在现在通过VirtualBox、VMWare等虚拟机来试用Linux。
+
+那么现在就让我们来试用 Linux 吧。
+
+## 一、先保住命
+
+Linux 有“三高”：效率高、可用性高、可学习性高。
+
+但只有玩过 Unix/Linux(除Ubuntu，以及其他所有自带有GUI的Linux发行版) …… 的人才发现：
+
+### **“目前我们无法生存！”**
+
+那么，为什么要选择 Ubuntu ?
+
+是因为他自带图形化界面。
+
+## 二、无敌终端
+
+Ubuntu 打开终端的方法是 Ctrl + Alt + N / 桌面右键，打开终端。
+
+终端有什么用？安装软件为例，Windows用户的操作：打开游览器 --> 搜索 --> 下载 --> 安装。
+
+Ubuntu用户的操作：Ctrl + Alt + N --> sudo apt(-get) install XX。
+
+不仅减少了繁琐的安装步骤，还减去了大家对搜索内容进行筛选的时间。 
+
+再以打开软件为例，
+
+Windows 用户的操作：双击桌面图标 / Windows 菜单 --> 所有程序 --> 打开。
+
+Linux 用户的 **通用** 操作：（Ctrl+Alt+T --> ）输入软件名。
+
+还不服？
+
+重启，Linux 一句 reboot 完事。Windows 呢？
+
+三、软件
+替代列表：
+Office -> LibreOffice
+CMD -> Terminal
+Outlook -> ThunderBird
+Chrome -> Firefox / Chromium
+Visual Studio -> Vim / GVim / Visual Code
+SVN -> Git
+微信 -> *微信Web**
+QQ -> WineQQ
+......
+
+安装方式：(sudo) apt(-get) install XX
+卸载方式：(sudo) apt(-get) remove XX
+
+*：找不到可替代的，只能用web版。
+
+四、总而言之
+现在我们至少能生存下去了，但离一个合格的Linux使用者还很远，引用一句毛主席说过的话：
+
+<code style="color: red; font-size: 2em; font-family: 微软雅黑 Light;">“革命尚未成功，同志仍需努力。”</code>
